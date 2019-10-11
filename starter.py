@@ -1,4 +1,4 @@
-from img_upload import app as application
+from img_upload import app
 
 if __name__ == "__main__":
-    application.run()
+    app.run()
